@@ -2,7 +2,7 @@
 ! By WQY
 program main
   implicit none
-  integer re_i
+!  integer re_i
   write(*,*) "Hello World!"
-  re_i = system("pause")
+!  re_i = system("pause")
 end 
